@@ -5,6 +5,7 @@
 
     using ZbW.Testing.FirstIntegrationTest.Client.Providers;
 
+    //hallo
     internal class AnalyzerViewModel : BindableBase
     {
         private readonly IOcrProvider _ocrProvider;
